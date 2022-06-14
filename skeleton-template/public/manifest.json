@@ -1,7 +1,6 @@
 {
-  "short_name": "Skye's App",
-  "name": "Skye Brown's React App",
-  "icons": [],
+  "short_name": "React Template",
+  "name": "Create React App Template",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
